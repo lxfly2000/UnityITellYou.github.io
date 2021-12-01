@@ -81,6 +81,13 @@
 
 ## Unity2019
 
+### Unity 2019.4.31 (LTS)
+
+- [Unity Download Assistant (Win)](Installer/UnityDownloadAssistant-2019.4.31f1.exe)  
+SHA256: `5687ab9feeef50b09069d100e4c3a121f0b1c5a6978219d35492c38f878b811d`
+- [Torrent (Win+Mac)](Installer/Unity-2019.4.31f1.torrent)  
+SHA256: `bddf5929e6a2119bb396cfe8a4529d38c5010ff24e7271b753cc250bb20b17a1`
+
 ### Unity 2019.4.12 (LTS)
 7 Oct, 2020
 
